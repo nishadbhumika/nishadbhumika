@@ -67,8 +67,8 @@ Improved API reliability by detecting and reporting critical defects early in th
 ## Education
 
 #### [https://www.rungta.ac.in/) (2011 - 2014)
-Master of Computer Applications (MCA)
+Master of Computer Applications (MCA)- 8.03 CGPA
 
 #### [https://www.rungta.ac.in/) (2008 - 2011)
-Bachelor of Computer Applications (BCA)
+Bachelor of Computer Applications (BCA)- 65%
 
