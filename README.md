@@ -13,6 +13,13 @@ Linux, API, HTTP REST API, Oracle SQL
 #### Tools
 Git, AWS, Jenkins CI/CD
 
+## Professional Experience
+* AI coding assistants (Copilot, ChatGPT), LLM-based automation, Utilized AI-powered coding assistants to optimize automation scripts, improving efficiency by 80%.
+* Having ability to read C/C++ and low-level code.
+* Good knowledge in GenAI.
+* Excellent analytical skills for solving problems.
+* Strong interpersonal and communication skills are important.
+
 ## Projects
 #### Backend Automation-OneView
 
