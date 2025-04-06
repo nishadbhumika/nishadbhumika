@@ -7,6 +7,8 @@ Results-driven QA Automation Engineer with expertise in automating testing for b
 #### Test Automation
 RestAssured, API Testing, Postman, Selenium, BDD.
 
+#### Programming Language
+Java, Python.
 #### Back End
 Linux, API, HTTP REST API, Oracle SQL
 
