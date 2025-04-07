@@ -1,26 +1,28 @@
 # Bhumika Nishad
 Bangalore, Karnataka · +91-8618769604 · [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhumikanishad/)
 
-Results-driven QA Automation Engineer with expertise in automating testing for banking and financial applications. Experienced in API automation using RestAssured and Java, web automation using Selenium, and Java. Proven ability to improve test coverage, enhance security compliance, and ensure seamless CI/CD integration for high-quality banking software solutions.
+Full Stack Automation Engineer with expertise in automating testing for banking and financial applications. Experienced in API automation using RestAssured and Java, web automation using Selenium, and Java. Proven ability to improve test coverage, enhance security compliance, and ensure seamless CI/CD integration for high-quality banking software solutions.
+Hands-on experience in Java. Passionate about learning and applying new technologies and delivering a working solution. Familiar with Kafka, SpringBoot and Spring Framework
+
 
 ## Skills
 #### Test Automation
 RestAssured, API Testing, Postman, Selenium, BDD.
 
 #### Programming Language
-Java, Python.
+Proficiency in Java/J2EE, Python.
 #### Back End
 Linux, API, HTTP REST API, Oracle SQL
 
 #### Tools
-Git, AWS, Jenkins CI/CD
+GitHub, AWS, Jenkins CI/CD
 
 ## Professional Experience
 * AI coding assistants (Copilot, ChatGPT), LLM-based automation, Utilized AI-powered coding assistants to optimize automation scripts, improving efficiency by 80%.
-* Having ability to read C/C++ and low-level code.
-* Good knowledge in GenAI.
+* Having the ability to read C/C++ and low-level code.
+* Good knowledge of GenAI.
 * Excellent analytical skills for solving problems.
-* Strong interpersonal and communication skills are important.
+* Strong interpersonal and communication skills are.
 
 ## Projects
 #### Backend Automation-OneView
@@ -34,8 +36,8 @@ Technologies:
 * Fitnesse tool
 * Oracle SQL
 * AWS- S3, SQS, APIgw, RDS
-* Jenkins CI/CD, Git, Linux
-* Extent Reports
+* Jenkins CI/CD, GitHub, Linux
+* Agile,JIRA
 
 #### Backend Automation-CardHub
 
@@ -48,8 +50,8 @@ Technologies:
 * Fitnesse tool
 * Oracle SQL
 * AWS- S3, SQS, APIgw, RDS.
-* Jenkins CI/CD, Git, Linux.
-* Extent Reports
+* Jenkins CI/CD, GitHub, Linux.
+* Agile, JIRA
 
 #### FrontEnd Automation- Management Console(Web Application)
 
@@ -61,9 +63,9 @@ Technologies:
 * BDD
 * Fitnesse
 * Oracle SQL
-* * AWS- S3, SQS, APIgw, RDS.
-* Jenkins CI/CD, Git, Linux.
-* Extent Reports
+* AWS- S3, SQS, APIgw, RDS.
+* Jenkins CI/CD, GitHub, Linux.
+* Agile, JIRA
 
 ## Experience
 #### QA Automation Engineer (Aug 2017 - Present)
