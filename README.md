@@ -7,7 +7,7 @@ Hands-on experience in Java. Passionate about learning and applying new technolo
 
 ## Skills
 #### Test Automation
-RestAssured, API Testing, Postman, Selenium, BDD.
+RestAssured, RESTful API's, Postman, Selenium, BDD.
 
 #### Programming Language
 Proficiency in Java/J2EE, Python.
