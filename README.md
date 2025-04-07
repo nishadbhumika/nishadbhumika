@@ -2,7 +2,7 @@
 Bangalore, Karnataka · +91-8618769604 · [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhumikanishad/)
 
 Full Stack Automation Engineer with expertise in automating testing for banking and financial applications. Experienced in API automation using RestAssured and Java, web automation using Selenium, and Java. Proven ability to improve test coverage, enhance security compliance, and ensure seamless CI/CD integration for high-quality banking software solutions.
-Hands-on experience in Java. Passionate about learning and applying new technologies and delivering a working solution. Familiar with Kafka, SpringBoot and Spring Framework
+Hands-on experience in Java. Passionate about learning and applying new technologies and delivering a working solution. Familiar with Kafka, SpringBoot and Spring Framework.
 
 
 ## Skills
