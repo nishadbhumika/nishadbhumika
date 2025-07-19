@@ -1,85 +1,69 @@
-# Bhumika Nishad
-Bangalore, Karnataka · +91-8618769604 · [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhumikanishad/)
+# 👩‍💻 Bhumika Nishad
 
-Full Stack Automation Engineer with expertise in automating testing for banking and financial applications. Experienced in API automation using RestAssured and Java, web automation using Selenium, and Java. Proven ability to improve test coverage, enhance security compliance, and ensure seamless CI/CD integration for high-quality banking software solutions.
-Hands-on experience in Java. Passionate about learning and applying new technologies and delivering a working solution. Familiar with Kafka, SpringBoot and Spring Framework.
+📍 Bangalore, India &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +91-8618769604 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhumikanishad/) • [Resume (PDF)](https://your-resume-link.com) <!-- replace with your actual PDF link -->
 
+---
 
-## Skills
-#### Test Automation
-RestAssured, RESTful API's, Postman, Selenium, BDD.
+### 🚀 Agentic AI Automation | QA Lead | LLM Workflows
 
-#### Programming Language
-Proficiency in Java/J2EE, Python.
-#### Back End
-Linux, API, HTTP REST API, Oracle SQL
+Agentic AI Automation QA Lead Engineer with deep experience across banking, financial, and printing domains. I specialize in blending traditional automation with LLM-powered agentic systems using GPT-4, Claude, Gemini, and LangChain.
 
-#### Tools
-GitHub, AWS, Jenkins CI/CD
+- 🧠 Expert in GenAI agentic workflows (LangChain, OpenAI functions, React patterns)
+- 🔍 Strong foundation in API & UI automation (RestAssured, Selenium, Python, Java)
+- 🛠️ Passionate about building intelligent QA solutions using LLMs and Python
 
-## Professional Experience
-* AI coding assistants (Copilot, ChatGPT), LLM-based automation, Utilized AI-powered coding assistants to optimize automation scripts, improving efficiency by 80%.
-* Having the ability to read C/C++ and low-level code.
-* Good knowledge of GenAI.
-* Excellent analytical skills for solving problems.
-* Strong interpersonal and communication skills are.
+---
 
-## Projects
-#### Backend Automation-OneView
+### 🛠️ Skills
 
-Worked as an SME and Automation Engineer, and as an individual contributor for API Automation of mobile applications. Developed and executed API automation strategies for mobile banking services, leading to a significant reduction in manual testing efforts and improved API reliability, performance, and security. 
+- **Languages:** Java, Python, SQL  
+- **Testing Tools:** RestAssured, Selenium, Postman, TestNG, Karate, BDD  
+- **AI/GenAI:** GPT-4, Claude, LangChain Agents, OpenAI Function Calling, Prompt Engineering  
+- **Cloud/DevOps:** AWS (S3, RDS, SQS), Jenkins, GitHub Actions, Linux  
+- **Automation Domains:** API Testing, Web UI Testing, Agentic Automation, CI/CD QA Integration  
 
-Technologies:
-* RESTAssured
-* TestNG
-* Java
-* Fitnesse tool
-* Oracle SQL
-* AWS- S3, SQS, APIgw, RDS
-* Jenkins CI/CD, GitHub, Linux
-* Agile,JIRA
+---
 
-#### Backend Automation-CardHub
+### 💼 Work Highlights
 
-Worked as a QA Automation Engineer and automated mobile banking APIs, using RESTAssured, Java, and TestNG framework. Designed and implemented API automation for mobile banking applications, reducing manual testing efforts by 80% and enhancing API quality through comprehensive validation and regression testing. 
+- ✅ Built multi-agent LLM testing systems for HP using LangChain, GPT-4, and Claude  
+- ⚙️ Automated complex test workflows using GenAI-powered agents, reducing manual effort by 60%  
+- 🧪 Integrated traditional Selenium/RestAssured tests into agentic pipelines  
+- 🧠 Used AI tools like GitHub Copilot and ChatGPT to accelerate automation development by 80%  
+- 📊 Worked across domains: Banking, Finance, Printing
 
-Technologies:
-* RESTAssured
-* TestNG
-* Java
-* Fitnesse tool
-* Oracle SQL
-* AWS- S3, SQS, APIgw, RDS.
-* Jenkins CI/CD, GitHub, Linux.
-* Agile, JIRA
+---
 
-#### FrontEnd Automation- Management Console(Web Application)
+### 🚀 Projects
 
-Automated end-to-end testing for a banking web application using Selenium, Java, TestNG, and BDD significantly decreases manual testing time by 70% and enhances software quality by ensuring comprehensive test coverage and early defect detection.
+#### 🔹 **Backend Automation – OneView**
+*API automation for mobile banking services using Java + RESTAssured*
 
-Technologies:
-* Selenium, Java
-* TestNG Framework
-* BDD
-* Fitnesse
-* Oracle SQL
-* AWS- S3, SQS, APIgw, RDS.
-* Jenkins CI/CD, GitHub, Linux.
-* Agile, JIRA
+#### 🔹 **Frontend Automation – Management Console**
+*End-to-end UI testing with Selenium and BDD for banking dashboard*
 
-## Experience
-#### QA Automation Engineer (Aug 2017 - Present)
-_Providence_
+#### 🔹 **Agentic LLM QA Automation – HP Projects**
+*Built autonomous agents using OpenAI functions, GPT-4, GPT-3, Claude, Gemini for dynamic test planning and bug triage*
 
-Automated API Testing for Banking Applications. Developed API automation scripts using RestAssured/Postman/Karate to validate core banking functionalities such as transactions, account creation, and fund transfers. Implemented OAuth2/JWT authentication testing to verify secure API access. Designed data-driven tests to cover multiple request scenarios and edge cases.
-Reduced manual API testing efforts by 80%, increasing test efficiency and coverage. Integrated API tests into CI/CD pipelines (Jenkins/GitHub Actions) for automated regression testing.
-Improved API reliability by detecting and reporting critical defects early in the development cycle. 
+---
 
-## Education
+### 📫 Let's Connect
 
-#### [https://www.rungta.ac.in/) (2011 - 2014)
-Master of Computer Applications (MCA)- 8.03 CGPA
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhumikanishad/)
+- 📧 [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com)
 
-#### [https://www.rungta.ac.in/) (2008 - 2011)
-Bachelor of Computer Applications (BCA)- 65%
+---
 
+### 📄 Resume
+
+[![View My Resume](https://your-resume-link.com](https://github.com/nishadbhumika/nishadbhumika/))  
+<!-- Upload your resume PDF in GitHub and use its link above -->
+
+---
+
+### 🧮 Optional: GitHub Stats & Profile Views
+
+```markdown
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
