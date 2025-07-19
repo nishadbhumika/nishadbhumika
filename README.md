@@ -1,13 +1,13 @@
 # 👩‍💻 Bhumika Nishad
 
 📍 Bangalore, India &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +91-8618769604 &nbsp;&nbsp;|&nbsp;&nbsp; 📧 [nishadbhumika@gmail.com](mailto:nishadbhumika@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhumikanishad/) • [Resume (PDF)](https://your-resume-link.com) <!-- replace with your actual PDF link -->
+🔗 [LinkedIn](https://www.linkedin.com/in/bhumikanishad/) 
 
 ---
 
 ### 🚀 Agentic AI Automation | QA Lead | LLM Workflows
 
-Agentic AI Automation QA Lead Engineer with deep experience across banking, financial, and printing domains. I specialize in blending traditional automation with LLM-powered agentic systems using GPT-4, Claude, Gemini, GPT-3.
+Agentic AI Automation QA Lead Engineer with deep experience across banking, financial, and printing domains. I specialize in blending traditional automation with LLM-powered agentic systems using GPT-4, Claude, Gemini, and GPT-3.
 
 - 🧠 Expert in GenAI agentic workflows (LangChain, OpenAI functions, React patterns)
 - 🔍 Strong foundation in API & UI automation (RestAssured, Selenium, Python, Java)
@@ -29,7 +29,7 @@ Agentic AI Automation QA Lead Engineer with deep experience across banking, fina
 
 - ✅ Built multi-agent LLM testing systems for HP using LangChain, GPT-4, and Claude  
 - ⚙️ Automated complex test workflows using GenAI-powered agents, reducing manual effort by 60%  
-- 🧪 Integrated traditional Selenium/RestAssured tests into agentic pipelines  
+- 🧪 Integrated traditional Selenium/RestAssured tests into Agentic pipelines  
 - 🧠 Used AI tools like GitHub Copilot and ChatGPT to accelerate automation development by 80%  
 - 📊 Worked across domains: Banking, Finance, Printing
 
@@ -56,14 +56,7 @@ Agentic AI Automation QA Lead Engineer with deep experience across banking, fina
 ---
 
 ### 📄 Resume
-
-[![View My Resume](https://your-resume-link.com](https://github.com/nishadbhumika/nishadbhumika/))  
-<!-- Upload your resume PDF in GitHub and use its link above -->
+Attached PDF!
 
 ---
 
-### 🧮 Optional: GitHub Stats & Profile Views
-
-```markdown
-![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
