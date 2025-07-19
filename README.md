@@ -7,7 +7,7 @@
 
 ### 🚀 Agentic AI Automation | QA Lead | LLM Workflows
 
-Agentic AI Automation QA Lead Engineer with deep experience across banking, financial, and printing domains. I specialize in blending traditional automation with LLM-powered agentic systems using GPT-4, Claude, Gemini, and LangChain.
+Agentic AI Automation QA Lead Engineer with deep experience across banking, financial, and printing domains. I specialize in blending traditional automation with LLM-powered agentic systems using GPT-4, Claude, Gemini, GPT-3.
 
 - 🧠 Expert in GenAI agentic workflows (LangChain, OpenAI functions, React patterns)
 - 🔍 Strong foundation in API & UI automation (RestAssured, Selenium, Python, Java)
