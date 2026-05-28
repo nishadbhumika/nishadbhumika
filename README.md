@@ -101,7 +101,7 @@ Automated the full digital card lifecycle including provisioning, transaction en
 ## Education
 
 - **Master of Computer Application (MCA)** — CSVTU, Bhilai | 2014 | CGPA: 8.03/10
-- **Bachelor of Computer Application (BCA)** — RCET, Bhilai | 2011
+- **Bachelor of Computer Application (BCA)** — RCET, Bhilai | 2011 | 65%
 
 ---
 
